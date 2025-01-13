@@ -13,9 +13,9 @@ Tasks:
 3.	HTML Bio Pages:
   o	Each member creates a feature branch (e.g., feature/john-doe-bio-page).
   o	Create a personal HTML bio page with details such as:
-    	Name, origin, major, career aspirations, hobbies.
+        Name, origin, major, career aspirations, hobbies.
   o	Link the bio page to the team's index.html.
-4.	Pull Requests and Code Review:
+5.	Pull Requests and Code Review:
   o	Each member pushes their branch to GitHub and creates a pull request.
   o	Assign a teammate to review the pull request.
   o	Review and approve pull requests, ensuring HTML is well-formed.
